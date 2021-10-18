@@ -1,0 +1,89 @@
+  113  mkdir covers
+  114  cd covers 
+  115  mkdir Constructeurs
+  116  cd Constructeurs
+  117  history help
+  118  mkdir Sony
+  119  mkdir Sony/Consoles/PS4 Sony/Consoles/PS5
+  120  mkdir Sony/Consoles/PS4
+  121  cd Sony
+  122  ls
+  123  history
+  124  mkdir Consoles
+  125  cd Consoles
+  126  mkdir PS4
+  127  mkdir PS5
+  128  cd ../
+  129  mkdir Consoles portables
+  130  cd ../
+  131  ls
+  132  mkdir Nintendo
+  133  mkdir Microsoft
+  134  mkdir Sega
+  135  history
+  136  history
+  137  cd Nintendo
+  138  mkdir Consoles
+  139  mkdir ConsolesPortables
+  140  cd Consoles
+  141  mkdir Gamecube
+  142  cd ../
+  143  cd ConsolesPortables
+  144  mkdir GameBoy
+  145  cd../../
+  146  cd ../../
+  147  ls
+  148  cd Microsoft
+  149  mkdir Consoles
+  150  cd Consoles
+  151  mkdir Xbox
+  152  mkdir Xbox360
+  153  cd ../
+  154  cd ../
+  155  cd Sega
+  156  mkdir Consoles
+  157  cd Consoles
+  158  history
+  159  history 5
+  160  cd ../../
+  161  cd ../
+  162  cd ../
+  163  cd img/
+  164  mv dc_jetgrindradio_10.jpg ../covers/Constructeurs/Sega/Consoles/Dreamcast
+  165  mv dc_jetgrindradio_10.jpg ../covers/Constructeurs/Sega/Consoles/Dreamcast/
+  166  cd ../covers/Constructeurs/Sega/Consoles/
+  167  rm Dreamcast
+  168  mkdir Dreamcast
+  169  cd ../../../../
+  170  cd img
+  171  mv dc_jetgrindradio_10.jpg ../covers/Constructeurs/Sega/Consoles/Dreamcast
+  172  mv dc_jetsetradio_eu_front.jpg ../covers/Constructeurs/Sega/Consoles/Dreamcast
+  173  mv dc_shenmue_eu.jpg ../covers/Constructeurs/Sega/Consoles/Dreamcast
+  174  cd dc_shenmueii_5.jpg ../covers/Constructeurs/Sega/Consoles/Dreamcast
+  175  mv dc_shenmueii_5.jpg ../covers/Constructeurs/Sega/Consoles/Dreamcast
+  176  mv gameboy.pokmonred.jpg ../covers/Constructeurs/Nintendo/ConsolesPortables/GameBoy
+  177  mv gb_pokemonblue_eu.jpg ../covers/Constructeurs/Nintendo/ConsolesPortables/GameBoy
+  178  mv gb_pokemongreen_3.jpg ../covers/Constructeurs/Nintendo/ConsolesPortables/GameBoy
+  179  mv gb_pokemonyellow_au.jpg ../covers/Constructeurs/Nintendo/ConsolesPortables/GameBoy
+  180  mv gbc_pokemongold.jpg gbc_pokemongold.jpg ../covers/Constructeurs/Nintendo/Consoles/Gamecube
+  181  mv gc_mariokartdoubledash.jpg ../covers/Constructeurs/Nintendo/Consoles/Gamecube
+  182  mv gc_supermariosunshine.jpg ../covers/Constructeurs/Nintendo/Consoles/Gamecube
+  183  mv playstation_4.assassinscreedodyssey.jpg ../covers/Constructeurs/Sony/Consoles/PS4
+  184  mv playstation_4.unchartedthelostlegacy.jpg ../covers/Constructeurs/Sony/Consoles/PS4
+  185  mv playstation_4.watchdogs2.jpg ../covers/Constructeurs/Sony/Consoles/PS4
+  186  mv playstation_5.assassinscreedvalhalla.jpg ../covers/Constructeurs/Sony/Consoles/PS5
+  187  mv playstation_5.farcry6.jpg ../covers/Constructeurs/Sony/Consoles/PS5
+  188  mv playstation_5.residentevilvillage_.jpg ../covers/Constructeurs/Sony/Consoles/PS5
+  189  mv ps4_fifa14.jpg ../covers/Constructeurs/Sony/Consoles/PS4
+  190  mv x360_callfoduty3.jpg ../covers/Constructeurs/Microsoft/Consoles/Xbox360
+  191  mv x360_callofduty2.jpg ../covers/Constructeurs/Microsoft/Consoles/Xbox360
+  192  mv x360_callofduty4.jpg ../covers/Constructeurs/Microsoft/Consoles/Xbox360
+  193  mv x360_callofdutyblackopsii.jpg ../covers/Constructeurs/Microsoft/Consoles/Xbox360
+  194  mv xbox_360.fableiii.jpg ../covers/Constructeurs/Microsoft/Consoles/Xbox360
+  195  mv xbox_deadoralive3.jpg ../covers/Constructeurs/Microsoft/Consoles/Xbox
+  196  mv xbox_deadtorights.jpg ../covers/Constructeurs/Microsoft/Consoles/Xbox
+  197  mv xbox_defjamfightforny.jpg ../covers/Constructeurs/Microsoft/Consoles/Xbox
+  198  mv xbox_halo2.jpg ../covers/Constructeurs/Microsoft/Consoles/Xbox
+  199  mv xbox_halo_2.jpg ../covers/Constructeurs/Microsoft/Consoles/Xbox
+  200  mv xbox_jetsetradiofuture_2.jpg ../covers/Constructeurs/Microsoft/Consoles/Xbox
+  201  mv xbox_needforspeedunderground2.jpg ../covers/Constructeurs/Microsoft/Consoles/Xbox
