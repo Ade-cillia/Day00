@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Init csv
 php_remote_2019_number=0
 python_2008_number=0
 david_number=0
@@ -8,6 +9,7 @@ david_number=0
 > mails_gex.csv
 > mails_charbonnieres_remote.csv
 
+#Init For line in csv
 cat it_alumni.csv|while read line
 do
     if [ line ]; then
@@ -36,4 +38,3 @@ do
     echo $php_remote_2019_number > php_remote_2019.csv
     echo $python_2008_number > python_2008.csv
 done
-
