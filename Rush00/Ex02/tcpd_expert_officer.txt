@@ -1,0 +1,6 @@
+awk -F ',' 'BEGIN {max = 0} {if ($3>max && $2=="Officer") {max=$3; officerMax=$0}} END {print officerMax}' tcpd_department.csv
+
+v2(marche po mais la v1 marche):
+awk -F ',' 'BEGIN {max = 0; officerArr[];i=0} {if ($3>max && $2=="Officer") {max=$3; officerArr[]; officerArr[i]=$0;i=0}else  {if ($3==max && $2=="Officer"){officerArr[i]=$0}}}END {print officerMax}' tcpd_department.csv
+
+
